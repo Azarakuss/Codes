@@ -1,7 +1,7 @@
 /* Proje 3
- * 18120205020 Hüseyin Yılmaz, ">" operatörünü yaptı,
- * 18120205033 Emine Aleyna Elmas, Opsiyonlar ve opsiyonların koda entegresi,
- * 18120205031 Çağla Betül Sezer, Kopyala ve sadeceOku fonskiyonu
+ * , ">" operatörünü yaptı,
+ * , Opsiyonlar ve opsiyonların koda entegresi,
+ * , Kopyala ve sadeceOku fonskiyonu
  */
 
 
